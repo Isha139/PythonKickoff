@@ -21,3 +21,10 @@ marks >= 90, grade =“A”
 # Q10. WAP to check if a number entered by the user is odd or not.
 # Q11. WAP to find greatest of 3 numbers entered by the user.
 # Q12. WAP to check if a number is a multiply of 7 or not.
+# Day 4
+# Q13. Lists 
+# Q14. Tuples
+# Q15. WAP to ask the user to enter names of their 3 favorite movies & store them in a list.
+# Q16. WAP to check if a list contains a palindrome of elements.
+# Q17. WAP to count the number of students with the "A" grade in the following tuple. [C, D, A, A, B, B, A]
+# Q18. Store the above values in a list & sort them from "A" to "D"
