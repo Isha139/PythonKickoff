@@ -36,4 +36,10 @@ marks >= 90, grade =“A”
 # Q23. WAP to enter marks of 3 subjects from the user and store them in a dictionary. Start with an empty dictionary & add one by one. Use subject name as key & marks as value.
 # Q24. Figure out a way to store 9 & 9.0 as separate values in the set.(You can take help of built-in data types)
 # Day 6
-# Loops (while)
+# Q25. Loops (while)
+# Day 7
+# Q26. Print nos. from 1 to 100. / Print nos. from 100 to 1.
+# Q27. Print the multiplication table of a n.
+# Q28. Print the elements of the following list using a loop: [1, 4, 9, 16, 25, 36, 49, 64, 81,100]
+# Q30. Search for a number x in this tuple using loop: (1, 4, 9, 16, 25, 36, 49, 64, 81,100)
+# Q31. For Loop
