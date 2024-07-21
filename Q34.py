@@ -1,7 +1,7 @@
 # range()
 
-# for i in range(5): #range(stop)
-#     print(i)
+for i in range(5): #range(stop)
+    print(i)
     
 # Output
 # 0
@@ -9,8 +9,8 @@
 # 2
 # 3
 # 4
-# for i in range(2, 10):  #range(start, stop)
-#     print(i)
+for i in range(2, 10):  #range(start, stop)
+    print(i)
     
 # Output
 # 2
