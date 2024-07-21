@@ -2,8 +2,8 @@
 nums = [1, 2, 3, 4, 5]
 veggies = ["Potato", "Brinjal", "Capsicum"]
 str = "hello"
-# for val in str:
-#     print(val)
+for val in str:
+    print(val)
     
 # Output
 

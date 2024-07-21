@@ -43,3 +43,8 @@ marks >= 90, grade =“A”
 # Q28. Print the elements of the following list using a loop: [1, 4, 9, 16, 25, 36, 49, 64, 81,100]
 # Q30. Search for a number x in this tuple using loop: (1, 4, 9, 16, 25, 36, 49, 64, 81,100)
 # Q31. For Loop
+# Day 8
+# Q32. Print the elements of the following list using a loop.
+# Q33. Search for a number x in this tuple using loop.
+# Q34. range()
+# Q35. Print numbers from 1 to 100. Print numbers from 100 to 1. Print multiplication table of a number n.
