@@ -48,3 +48,8 @@ marks >= 90, grade =“A”
 # Q33. Search for a number x in this tuple using loop.
 # Q34. range()
 # Q35. Print numbers from 1 to 100. Print numbers from 100 to 1. Print multiplication table of a number n.
+# Day 9
+# Q36. WAP to find the sum of firt n natural numbers. (using while)
+# Q37. WAP to find the factorial of first n numbers. (using for)
+# Q38. Functions in Python
+# Q39. WAF to print the length of a list.(list is the parameter).  Q. WAF to print the elements of a list in a single line.(list is the parameter). Q. WAF to find the factorial of n. (n is the parameter). Q. WAF to convert USD to INR.
